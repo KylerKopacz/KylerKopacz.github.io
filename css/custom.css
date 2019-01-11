@@ -1,0 +1,61 @@
+.info {
+  background-color: black;
+}
+
+.info h2, .info h3, .info p {
+  color: white;
+}
+
+.centered {
+  justify-content: center;
+}
+
+body {
+  background-color: black;
+}
+
+h1 {
+  font-weight: bold;
+  color: black;
+}
+
+.skills {
+  background-color: white;
+  color: black;
+  text-align: center;
+  position: sticky;
+  padding: 50px 50px;
+}
+.skills h2 {
+  padding-bottom: 25px;
+  font-size: 48px;
+}
+
+.interests h2 {
+  padding-bottom: 25px;
+  font-size: 48px;
+  color: white;
+}
+
+.skills p {
+  color: black;
+}
+
+.interests {
+  text-align: center;
+  background-color: black;
+  padding: 50px 50px;
+}
+.interests h3, .interests p {
+  color: white;
+}
+
+.footer {
+  text-align: center;
+  background-color: black;
+  padding-top: 20px;
+}
+
+.footer img {
+  height: 50px;
+}
