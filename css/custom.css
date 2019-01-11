@@ -1,9 +1,9 @@
 .info {
-  background-color: black;
+  background-color: white;
 }
 
 .info h2, .info h3, .info p {
-  color: white;
+  color: black;
 }
 
 .centered {
@@ -11,12 +11,20 @@
 }
 
 body {
-  background-color: black;
+  background-color: #f8f9fa;
 }
 
 h1 {
   font-weight: bold;
-  color: black;
+  color: white;
+}
+
+.career {
+  background-color: black;
+  color: white;
+  text-align: center;
+  position: sticky;
+  padding: 50px 50px;
 }
 
 .skills {
